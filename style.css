@@ -1,0 +1,35 @@
+body {
+    font-family: 'Varela Round', sans-serif;
+    background-color:powderblue ;
+}
+
+.header_div {
+    background-color:rgb(81, 84, 83);
+    color:aquamarine
+}
+
+.header_div p {
+    color:aqua;
+    letter-spacing: 2px;
+    font-size:12px;
+    font-weight:bold;
+}
+
+.main_div button {
+    margin-top:30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color:royalblue;
+    bottom:0;
+    width:100%;
+    font-size:18px;
+    background-color:coral;
+    line-height:3;
+    text-align:center;
+    text-shadow: 5px 5px 5px royalblue;
+}
